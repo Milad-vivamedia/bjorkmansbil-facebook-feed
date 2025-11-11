@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Björkmans Bil - Nya Kia Modeller Feed</title>
+  <meta charset="utf-8">
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 50px auto; padding: 20px; }
+    h1 { color: #333; }
+    .info { background: #f0f0f0; padding: 20px; border-radius: 5px; }
+    .feed-url { background: #e8f5e9; padding: 15px; border-radius: 5px; margin: 20px 0; word-break: break-all; }
+    code { background: #f5f5f5; padding: 2px 6px; border-radius: 3px; }
+    table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+    th, td { padding: 10px; text-align: left; border-bottom: 1px solid #ddd; }
+    th { background: #f5f5f5; }
+  </style>
+</head>
+<body>
+  <h1>🚗 Björkmans Bil - Kia Modeller Feed</h1>
+
+  <div class="info">
+    <h2>Feed URL</h2>
+    <div class="feed-url">
+      <strong>Use this URL in Facebook Commerce Manager:</strong><br><br>
+      <code id="feedUrl">Loading...</code>
+    </div>
+
+    <h2>Status</h2>
+    <p>✅ Feed is active and updating automatically every hour</p>
+    <p>Last updated: <strong>2025-11-11 12:36:34</strong></p>
+    <p>Total models: <strong>15</strong></p>
+
+    <h2>Models by Category</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Model</th>
+          <th>Categories</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+        <tr>
+          <td><strong>Kia EV3</strong></td>
+          <td>Nyheter &amp; erbjudanden, Elbilar, SUV/Crossover, Familjebilar</td>
+          <td>Kampanj!</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia EV4</strong></td>
+          <td>Nyheter &amp; erbjudanden, Elbilar, Kommande</td>
+          <td>Lanseras nu.</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia EV4 Fastback</strong></td>
+          <td>Nyheter &amp; erbjudanden, Elbilar, Kommande</td>
+          <td>Lanseras nu.</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia EV5</strong></td>
+          <td>Nyheter &amp; erbjudanden, Elbilar, SUV/Crossover, Familjebilar, Kommande</td>
+          <td>Lanseras hösten 2025. Orderteckna nu</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia EV6</strong></td>
+          <td>Elbilar, Fyrhjulsdrift, SUV/Crossover, Familjebilar</td>
+          <td>Kampanj!</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia EV6 GT</strong></td>
+          <td>Elbilar, Fyrhjulsdrift, SUV/Crossover, Familjebilar</td>
+          <td></td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia EV9</strong></td>
+          <td>Elbilar, Fyrhjulsdrift, SUV/Crossover, Familjebilar</td>
+          <td></td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia EV9 GT</strong></td>
+          <td>Elbilar, Fyrhjulsdrift, SUV/Crossover, Familjebilar</td>
+          <td></td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia PV5 Cargo</strong></td>
+          <td>Elbilar, Transportbilar, Kommande</td>
+          <td>Orderteckna nu</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia PV5 Passenger</strong></td>
+          <td>Elbilar, Familjebilar, Transportbilar, Kommande</td>
+          <td>Orderteckna nu</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia Niro Plug-In Hybrid</strong></td>
+          <td>Plug-In Hybrider, SUV/Crossover</td>
+          <td>Kampanj!</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia Sportage Plug-In Hybrid</strong></td>
+          <td>Plug-In Hybrider, Fyrhjulsdrift, SUV/Crossover, Familjebilar</td>
+          <td>Kampanj</td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia Sorento Plug-In Hybrid</strong></td>
+          <td>Plug-In Hybrider, Fyrhjulsdrift, SUV/Crossover, Familjebilar</td>
+          <td></td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia Picanto</strong></td>
+          <td>Bensinbilar</td>
+          <td></td>
+        </tr>
+        
+        <tr>
+          <td><strong>Kia Stonic</strong></td>
+          <td>Bensinbilar, SUV/Crossover</td>
+          <td></td>
+        </tr>
+        
+      </tbody>
+    </table>
+
+    <h2>Quick Links</h2>
+    <ul>
+      <li><a href="feed.xml">View XML Feed</a></li>
+      <li><a href="https://business.facebook.com/commerce/" target="_blank">Facebook Commerce Manager</a></li>
+      <li><a href="https://www.bjorkmansbil.se" target="_blank">Björkmans Bil Website</a></li>
+    </ul>
+  </div>
+
+  <script>
+    const feedUrl = window.location.origin + window.location.pathname + 'feed.xml';
+    document.getElementById('feedUrl').textContent = feedUrl;
+  </script>
+</body>
+</html>
