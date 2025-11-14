@@ -89,22 +89,37 @@ async function scrapeModelFinancing(page, modelUrl) {
       // Try to find the main model image
       let imageUrl = '';
 
-      // Look for hero image or main product image
-      const heroImg = document.querySelector('.hero img, .model-hero img, .product-image img, .main-image img');
-      if (heroImg) {
-        imageUrl = heroImg.src || heroImg.getAttribute('data-src') || '';
+      // Strategy: Find large product images from wp-content/uploads
+      const allImages = document.querySelectorAll('img');
+      const candidates = [];
+
+      for (const img of allImages) {
+        const src = img.src || img.getAttribute('data-src') || '';
+        const alt = img.alt || '';
+        const width = img.width || 0;
+        const height = img.height || 0;
+
+        // Filter criteria
+        const isFromUploads = src.includes('wp-content/uploads');
+        const isLargeEnough = width > 500 && height > 300;
+        const notLogo = !src.includes('logo') && !src.includes('koncern') &&
+                        !src.includes('icon') && !alt.toLowerCase().includes('björkmans');
+        const notElbilBadge = !src.includes('elbil.png');
+
+        if (isFromUploads && isLargeEnough && notLogo && notElbilBadge) {
+          candidates.push({
+            src: src,
+            width: width,
+            height: height,
+            size: width * height
+          });
+        }
       }
 
-      // Fallback: any large image
-      if (!imageUrl) {
-        const allImages = document.querySelectorAll('img');
-        for (const img of allImages) {
-          const src = img.src || img.getAttribute('data-src') || '';
-          if (src && (src.includes('modeller') || src.includes('kia')) && !src.includes('logo')) {
-            imageUrl = src;
-            break;
-          }
-        }
+      // Sort by size (largest first) and take the first one
+      if (candidates.length > 0) {
+        candidates.sort((a, b) => b.size - a.size);
+        imageUrl = candidates[0].src;
       }
 
       return { modelName, imageUrl };
