@@ -38,7 +38,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/
+          git add output/ package*.json
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update feed - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
 
   deploy-pages:
