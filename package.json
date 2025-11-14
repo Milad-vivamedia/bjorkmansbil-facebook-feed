@@ -1,24 +1,10 @@
 {
   "name": "bjorkmansbil-facebook-feed",
   "version": "1.0.0",
-  "description": "Facebook Dynamic Ads feed generator for Björkmans Bil (Kia models)",
-  "main": "scrape-models.js",
+  "description": "Facebook Dynamic Ads feed generator for Björkmans Bil - Nya Kia modeller",
+  "main": "generate-feed.js",
   "scripts": {
-    "generate": "node scrape-models.js",
-    "test": "node scrape-models.js && echo 'Feed generated successfully!'"
-  },
-  "keywords": [
-    "facebook",
-    "dynamic-ads",
-    "automotive",
-    "feed",
-    "kia",
-    "scraper"
-  ],
-  "author": "Björkmans Bil",
-  "license": "MIT",
-  "engines": {
-    "node": ">=18.0.0"
+    "generate": "node generate-feed.js"
   },
   "dependencies": {
     "playwright": "^1.40.0"

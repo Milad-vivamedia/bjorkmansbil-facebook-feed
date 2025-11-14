@@ -1,50 +1,64 @@
-name: Update Björkmans Bil Model Feed
+name: Update Facebook Feed
 
 on:
-  # Run every hour
   schedule:
+    # Run every hour
     - cron: '0 * * * *'
-
-  # Allow manual trigger
-  workflow_dispatch:
-
-  # Run on push to main (for testing)
+  workflow_dispatch: # Allow manual trigger
   push:
     branches: [ main ]
 
-# Required permissions for GitHub Pages deployment
 permissions:
   contents: write
   pages: write
   id-token: write
 
 jobs:
-  scrape-and-generate:
+  update-feed:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Setup Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '18'
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
-    - name: Install dependencies
-      run: npm install
+      - name: Install Playwright dependencies
+        run: |
+          npm install playwright
+          npx playwright install --with-deps chromium
 
-    - name: Install Playwright browsers
-      run: npx playwright install --with-deps chromium
+      - name: Generate feed
+        run: node generate-feed.js
 
-    - name: Scrape website and generate feed
-      run: node scrape-models.js
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update feed - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
 
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./output
-        publish_branch: gh-pages
-        keep_files: false
-        commit_message: 'Update model feed - ${{ github.event.head_commit.message }}'
+  deploy-pages:
+    needs: update-feed
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main # Get latest changes after feed update
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './output'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
