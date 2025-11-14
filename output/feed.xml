@@ -12,6 +12,7 @@
     <description>Kia EV3 Standard Range. Kia Billån inkl. serviceavtal från 2 629 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2629 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Standard Range</g:custom_label_1>
@@ -27,6 +28,7 @@
     <description>Kia EV3 Long Range. Kia Billån inkl. serviceavtal från 2 865 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2865 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Long Range</g:custom_label_1>
@@ -42,6 +44,7 @@
     <description>Kia EV3 Plus Long Range. Kia Billån inkl. serviceavtal från 3 082 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3082 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Plus Long Range</g:custom_label_1>
@@ -57,6 +60,7 @@
     <description>Kia EV3 GT Line Long Range. Kia Billån inkl. serviceavtal från 3 422 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3422 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line Long Range</g:custom_label_1>
@@ -72,6 +76,7 @@
     <description>Kia EV3 Standard Range. Kia Privatleasing från 2 629 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2629 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Standard Range</g:custom_label_1>
@@ -87,6 +92,7 @@
     <description>Kia EV3 Long Range. Kia Privatleasing från 2 865 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2865 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Long Range</g:custom_label_1>
@@ -102,6 +108,7 @@
     <description>Kia EV3 Plus Long Range. Kia Privatleasing från 3 082 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3082 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Plus Long Range</g:custom_label_1>
@@ -117,6 +124,7 @@
     <description>Kia EV3 GT Line Long Range. Kia Privatleasing från 3 422 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3422 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT Line Long Range</g:custom_label_1>
@@ -132,6 +140,7 @@
     <description>Kia EV3 Standard Range. Kia Företagsleasing från 2 629 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2629 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Standard Range</g:custom_label_1>
@@ -147,6 +156,7 @@
     <description>Kia EV3 Long Range. Kia Företagsleasing från 2 865 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2865 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Long Range</g:custom_label_1>
@@ -162,6 +172,7 @@
     <description>Kia EV3 Plus Long Range. Kia Företagsleasing från 3 082 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3082 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Plus Long Range</g:custom_label_1>
@@ -177,6 +188,7 @@
     <description>Kia EV3 GT Line Long Range. Kia Företagsleasing från 3 422 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev3/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3422 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT Line Long Range</g:custom_label_1>
@@ -192,6 +204,7 @@
     <description>Kia EV4 Standard Range. Kia Billån inkl. serviceavtal från 2 898 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2898 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Standard Range</g:custom_label_1>
@@ -207,6 +220,7 @@
     <description>Kia EV4 FWD Long Range. Kia Billån inkl. serviceavtal från 2 495 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2495 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>FWD Long Range</g:custom_label_1>
@@ -222,6 +236,7 @@
     <description>Kia EV4 Plus FWD Long Range. Kia Billån inkl. serviceavtal från 2 709 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2709 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -237,6 +252,7 @@
     <description>Kia EV4 GT Line FWD Long Range. Kia Billån inkl. serviceavtal från 3 044 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3044 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -252,6 +268,7 @@
     <description>Kia EV4 Standard Range. Kia Privatleasing från 2 898 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2898 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Standard Range</g:custom_label_1>
@@ -267,6 +284,7 @@
     <description>Kia EV4 FWD Long Range. Kia Privatleasing från 2 495 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2495 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>FWD Long Range</g:custom_label_1>
@@ -282,6 +300,7 @@
     <description>Kia EV4 Plus FWD Long Range. Kia Privatleasing från 2 709 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2709 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -297,6 +316,7 @@
     <description>Kia EV4 GT Line FWD Long Range. Kia Privatleasing från 3 044 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3044 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -312,6 +332,7 @@
     <description>Kia EV4 Standard Range. Kia Företagsleasing från 2 898 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2898 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Standard Range</g:custom_label_1>
@@ -327,6 +348,7 @@
     <description>Kia EV4 FWD Long Range. Kia Företagsleasing från 2 495 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2495 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>FWD Long Range</g:custom_label_1>
@@ -342,6 +364,7 @@
     <description>Kia EV4 Plus FWD Long Range. Kia Företagsleasing från 2 709 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2709 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -357,6 +380,7 @@
     <description>Kia EV4 GT Line FWD Long Range. Kia Företagsleasing från 3 044 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3044 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -372,6 +396,7 @@
     <description>Kia EV4 Fastback Plus FWD Long Range. Kia Billån inkl. serviceavtal från 3 412 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3412 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -387,6 +412,7 @@
     <description>Kia EV4 Fastback GT Line FWD Long Range. Kia Billån inkl. serviceavtal från 3 747 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3747 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -402,6 +428,7 @@
     <description>Kia EV4 Fastback Plus FWD Long Range. Kia Privatleasing från 3 412 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3412 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -417,6 +444,7 @@
     <description>Kia EV4 Fastback GT Line FWD Long Range. Kia Privatleasing från 3 747 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3747 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -432,6 +460,7 @@
     <description>Kia EV4 Fastback Plus FWD Long Range. Kia Företagsleasing från 3 412 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3412 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -447,6 +476,7 @@
     <description>Kia EV4 Fastback GT Line FWD Long Range. Kia Företagsleasing från 3 747 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3747 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -462,6 +492,7 @@
     <description>Kia EV5 FWD Long Range. Kia Billån inkl. serviceavtal från 3 147 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3147 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>FWD Long Range</g:custom_label_1>
@@ -477,6 +508,7 @@
     <description>Kia EV5 Plus FWD Long Range. Kia Billån inkl. serviceavtal från 3 382 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3382 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -492,6 +524,7 @@
     <description>Kia EV5 GT Line FWD Long Range. Kia Billån inkl. serviceavtal från 3 610 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3610 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -507,6 +540,7 @@
     <description>Kia EV5 GT Line Panorama FWD Long Range. Kia Billån inkl. serviceavtal från 3 699 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3699 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line Panorama FWD Long Range</g:custom_label_1>
@@ -522,6 +556,7 @@
     <description>Kia EV5 FWD Long Range. Kia Privatleasing från 3 147 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3147 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>FWD Long Range</g:custom_label_1>
@@ -537,6 +572,7 @@
     <description>Kia EV5 Plus FWD Long Range. Kia Privatleasing från 3 382 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3382 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -552,6 +588,7 @@
     <description>Kia EV5 GT Line FWD Long Range. Kia Privatleasing från 3 610 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3610 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -567,6 +604,7 @@
     <description>Kia EV5 GT Line Panorama FWD Long Range. Kia Privatleasing från 3 699 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3699 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT Line Panorama FWD Long Range</g:custom_label_1>
@@ -582,6 +620,7 @@
     <description>Kia EV5 FWD Long Range. Kia Företagsleasing från 3 147 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3147 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>FWD Long Range</g:custom_label_1>
@@ -597,6 +636,7 @@
     <description>Kia EV5 Plus FWD Long Range. Kia Företagsleasing från 3 382 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3382 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
@@ -612,6 +652,7 @@
     <description>Kia EV5 GT Line FWD Long Range. Kia Företagsleasing från 3 610 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3610 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
@@ -627,6 +668,7 @@
     <description>Kia EV5 GT Line Panorama FWD Long Range. Kia Företagsleasing från 3 699 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3699 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT Line Panorama FWD Long Range</g:custom_label_1>
@@ -642,6 +684,7 @@
     <description>Kia EV6 RWD Long Range. Kia Billån inkl. serviceavtal från 3 344 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3344 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>RWD Long Range</g:custom_label_1>
@@ -657,6 +700,7 @@
     <description>Kia EV6 AWD Long Range. Kia Billån inkl. serviceavtal från 3 012 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3012 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>AWD Long Range</g:custom_label_1>
@@ -672,6 +716,7 @@
     <description>Kia EV6 RWD Plus Long Range. Kia Billån inkl. serviceavtal från 3 579 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3579 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>RWD Plus Long Range</g:custom_label_1>
@@ -687,6 +732,7 @@
     <description>Kia EV6 AWD Plus Long Range. Kia Billån inkl. serviceavtal från 3 246 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3246 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>AWD Plus Long Range</g:custom_label_1>
@@ -702,6 +748,7 @@
     <description>Kia EV6 GT Line AWD. Kia Billån inkl. serviceavtal från 3 011 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3011 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line AWD</g:custom_label_1>
@@ -717,6 +764,7 @@
     <description>Kia EV6 RWD Long Range. Kia Företagsleasing från 3 344 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3344 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>RWD Long Range</g:custom_label_1>
@@ -732,6 +780,7 @@
     <description>Kia EV6 AWD Long Range. Kia Företagsleasing från 3 012 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3012 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>AWD Long Range</g:custom_label_1>
@@ -747,6 +796,7 @@
     <description>Kia EV6 RWD Plus Long Range. Kia Företagsleasing från 3 579 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3579 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>RWD Plus Long Range</g:custom_label_1>
@@ -762,6 +812,7 @@
     <description>Kia EV6 AWD Plus Long Range. Kia Företagsleasing från 3 246 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3246 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>AWD Plus Long Range</g:custom_label_1>
@@ -777,6 +828,7 @@
     <description>Kia EV6 GT Line AWD. Kia Företagsleasing från 3 011 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3011 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT Line AWD</g:custom_label_1>
@@ -792,6 +844,7 @@
     <description>Kia EV6 GT AWD Long Range. Kia Billån inkl. serviceavtal från 5 848 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev6-gt/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>5848 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>AWD Long Range</g:custom_label_1>
@@ -807,6 +860,7 @@
     <description>Kia EV9 Standard Range. Kia Billån inkl. serviceavtal från 3 557 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3557 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Standard Range</g:custom_label_1>
@@ -822,6 +876,7 @@
     <description>Kia EV9 Long Range. Kia Billån inkl. serviceavtal från 4 348 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4348 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Long Range</g:custom_label_1>
@@ -837,6 +892,7 @@
     <description>Kia EV9 Plus. Kia Billån inkl. serviceavtal från 4 549 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4549 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Plus</g:custom_label_1>
@@ -852,6 +908,7 @@
     <description>Kia EV9 GT Line. Kia Billån inkl. serviceavtal från 4 816 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4816 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line</g:custom_label_1>
@@ -867,6 +924,7 @@
     <description>Kia EV9 GT Line 6-SITS. Kia Billån inkl. serviceavtal från 4 965 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4965 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line 6-SITS</g:custom_label_1>
@@ -882,6 +940,7 @@
     <description>Kia EV9 Standard Range. Kia Företagsleasing från 3 557 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3557 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Standard Range</g:custom_label_1>
@@ -897,6 +956,7 @@
     <description>Kia EV9 Long Range. Kia Företagsleasing från 4 348 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4348 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Long Range</g:custom_label_1>
@@ -912,6 +972,7 @@
     <description>Kia EV9 Plus. Kia Företagsleasing från 4 549 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4549 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Plus</g:custom_label_1>
@@ -927,6 +988,7 @@
     <description>Kia EV9 GT Line. Kia Företagsleasing från 4 816 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4816 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT Line</g:custom_label_1>
@@ -942,6 +1004,7 @@
     <description>Kia EV9 GT Line 6-SITS. Kia Företagsleasing från 4 965 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4965 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT Line 6-SITS</g:custom_label_1>
@@ -957,6 +1020,7 @@
     <description>Kia EV9 GT 7 sittplatser. Kia Billån inkl. serviceavtal från 7 664 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev9-gt/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>7664 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>7 sittplatser</g:custom_label_1>
@@ -972,6 +1036,7 @@
     <description>Kia EV9 GT 6 sittplatser. Kia Billån inkl. serviceavtal från 6 898 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-ev9-gt/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>6898 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>6 sittplatser</g:custom_label_1>
@@ -987,6 +1052,7 @@
     <description>Kia PV5 Passenger PLUS LONG RANGE. Kia Billån inkl. serviceavtal från 4 484 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-pv5-passenger/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4484 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>PLUS LONG RANGE</g:custom_label_1>
@@ -1002,6 +1068,7 @@
     <description>Kia PV5 Passenger PLUS PRO LONG RANGE. Kia Billån inkl. serviceavtal från 4 671 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/kia-pv5-passenger/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4671 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>PLUS PRO LONG RANGE</g:custom_label_1>
@@ -1017,6 +1084,7 @@
     <description>Kia Niro Plug-In Hybrid Action. Kia Billån inkl. serviceavtal från 1 944 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>1944 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1032,6 +1100,7 @@
     <description>Kia Niro Plug-In Hybrid Advance. Kia Billån inkl. serviceavtal från 2 134 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2134 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Advance</g:custom_label_1>
@@ -1047,6 +1116,7 @@
     <description>Kia Niro Plug-In Hybrid Advance Plus. Kia Billån inkl. serviceavtal från 2 261 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2261 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Advance Plus</g:custom_label_1>
@@ -1062,6 +1132,7 @@
     <description>Kia Niro Plug-In Hybrid Action. Kia Privatleasing från 1 944 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>1944 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1077,6 +1148,7 @@
     <description>Kia Niro Plug-In Hybrid Advance. Kia Privatleasing från 2 134 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2134 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Advance</g:custom_label_1>
@@ -1092,6 +1164,7 @@
     <description>Kia Niro Plug-In Hybrid Advance Plus. Kia Privatleasing från 2 261 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2261 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Advance Plus</g:custom_label_1>
@@ -1107,6 +1180,7 @@
     <description>Kia Sportage Plug-In Hybrid Action. Kia Billån inkl. serviceavtal från 2 461 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2461 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1122,6 +1196,7 @@
     <description>Kia Sportage Plug-In Hybrid ADVANCE. Kia Billån inkl. serviceavtal från 2 712 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2712 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>ADVANCE</g:custom_label_1>
@@ -1137,6 +1212,7 @@
     <description>Kia Sportage Plug-In Hybrid GT LINE. Kia Billån inkl. serviceavtal från 2 874 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2874 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT LINE</g:custom_label_1>
@@ -1152,6 +1228,7 @@
     <description>Kia Sportage Plug-In Hybrid GT LINE PANORAMA. Kia Billån inkl. serviceavtal från 2 948 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2948 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT LINE PANORAMA</g:custom_label_1>
@@ -1167,6 +1244,7 @@
     <description>Kia Sportage Plug-In Hybrid Action. Kia Privatleasing från 2 461 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2461 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1182,6 +1260,7 @@
     <description>Kia Sportage Plug-In Hybrid ADVANCE. Kia Privatleasing från 2 712 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2712 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>ADVANCE</g:custom_label_1>
@@ -1197,6 +1276,7 @@
     <description>Kia Sportage Plug-In Hybrid GT LINE. Kia Privatleasing från 2 874 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2874 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT LINE</g:custom_label_1>
@@ -1212,6 +1292,7 @@
     <description>Kia Sportage Plug-In Hybrid GT LINE PANORAMA. Kia Privatleasing från 2 948 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2948 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT LINE PANORAMA</g:custom_label_1>
@@ -1227,6 +1308,7 @@
     <description>Kia Sportage Plug-In Hybrid Action. Kia Företagsleasing från 2 461 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2461 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1242,6 +1324,7 @@
     <description>Kia Sportage Plug-In Hybrid ADVANCE. Kia Företagsleasing från 2 712 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2712 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>ADVANCE</g:custom_label_1>
@@ -1257,6 +1340,7 @@
     <description>Kia Sportage Plug-In Hybrid GT LINE. Kia Företagsleasing från 2 874 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2874 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT LINE</g:custom_label_1>
@@ -1272,6 +1356,7 @@
     <description>Kia Sportage Plug-In Hybrid GT LINE PANORAMA. Kia Företagsleasing från 2 948 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2948 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>GT LINE PANORAMA</g:custom_label_1>
@@ -1287,6 +1372,7 @@
     <description>Kia Sorento Plug-In Hybrid Action. Kia Billån inkl. serviceavtal från 3 635 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3635 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1302,6 +1388,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance. Kia Billån inkl. serviceavtal från 3 903 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3903 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Advance</g:custom_label_1>
@@ -1317,6 +1404,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance Plus. Kia Billån inkl. serviceavtal från 4 124 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4124 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Advance Plus</g:custom_label_1>
@@ -1332,6 +1420,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance Plus Panorama. Kia Billån inkl. serviceavtal från 4 211 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4211 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Advance Plus Panorama</g:custom_label_1>
@@ -1347,6 +1436,7 @@
     <description>Kia Sorento Plug-In Hybrid Action. Kia Privatleasing från 3 635 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3635 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1362,6 +1452,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance. Kia Privatleasing från 3 903 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3903 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Advance</g:custom_label_1>
@@ -1377,6 +1468,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance Plus. Kia Privatleasing från 4 124 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4124 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Advance Plus</g:custom_label_1>
@@ -1392,6 +1484,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance Plus Panorama. Kia Privatleasing från 4 211 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4211 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Advance Plus Panorama</g:custom_label_1>
@@ -1407,6 +1500,7 @@
     <description>Kia Sorento Plug-In Hybrid Action. Kia Företagsleasing från 3 635 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3635 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1422,6 +1516,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance. Kia Företagsleasing från 3 903 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>3903 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Advance</g:custom_label_1>
@@ -1437,6 +1532,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance Plus. Kia Företagsleasing från 4 124 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4124 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Advance Plus</g:custom_label_1>
@@ -1452,6 +1548,7 @@
     <description>Kia Sorento Plug-In Hybrid Advance Plus Panorama. Kia Företagsleasing från 4 211 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>4211 SEK</g:price>
     <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
     <g:custom_label_1>Advance Plus Panorama</g:custom_label_1>
@@ -1467,6 +1564,7 @@
     <description>Kia Picanto Action. Kia Billån inkl. serviceavtal från 1 543 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/picanto/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>1543 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1482,6 +1580,7 @@
     <description>Kia Picanto Action Automat. Kia Billån inkl. serviceavtal från 1 597 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/picanto/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>1597 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Action Automat</g:custom_label_1>
@@ -1497,6 +1596,7 @@
     <description>Kia Picanto Action. Kia Privatleasing från 1 543 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/picanto/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>1543 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Action</g:custom_label_1>
@@ -1512,6 +1612,7 @@
     <description>Kia Picanto Action Automat. Kia Privatleasing från 1 597 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/picanto/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>1597 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Action Automat</g:custom_label_1>
@@ -1527,6 +1628,7 @@
     <description>Kia Stonic Advance 120 hk DCT 48V. Kia Billån inkl. serviceavtal från 1 972 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/stonic/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>1972 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>Advance 120 hk DCT 48V</g:custom_label_1>
@@ -1542,6 +1644,7 @@
     <description>Kia Stonic GT Line. Kia Billån inkl. serviceavtal från 2 119 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/stonic/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2119 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line</g:custom_label_1>
@@ -1557,6 +1660,7 @@
     <description>Kia Stonic Advance 120 hk DCT 48V. Kia Privatleasing från 1 972 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/stonic/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>1972 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Advance 120 hk DCT 48V</g:custom_label_1>
@@ -1572,6 +1676,7 @@
     <description>Kia Stonic GT Line. Kia Privatleasing från 2 119 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/stonic/</link>
     <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/themes/kia-bjorkmansbil-2020/assets/img/kia-bla.png</g:image_link>
     <g:price>2119 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT Line</g:custom_label_1>

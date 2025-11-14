@@ -81,13 +81,39 @@ async function scrapeModelFinancing(page, modelUrl) {
       // Cookie banner not found or already closed
     }
 
-    // Extract basic model info
-    const modelName = await page.evaluate(() => {
+    // Extract basic model info and image
+    const modelInfo = await page.evaluate(() => {
       const h1 = document.querySelector('h1');
-      return h1 ? h1.textContent.trim() : '';
+      const modelName = h1 ? h1.textContent.trim() : '';
+
+      // Try to find the main model image
+      let imageUrl = '';
+
+      // Look for hero image or main product image
+      const heroImg = document.querySelector('.hero img, .model-hero img, .product-image img, .main-image img');
+      if (heroImg) {
+        imageUrl = heroImg.src || heroImg.getAttribute('data-src') || '';
+      }
+
+      // Fallback: any large image
+      if (!imageUrl) {
+        const allImages = document.querySelectorAll('img');
+        for (const img of allImages) {
+          const src = img.src || img.getAttribute('data-src') || '';
+          if (src && (src.includes('modeller') || src.includes('kia')) && !src.includes('logo')) {
+            imageUrl = src;
+            break;
+          }
+        }
+      }
+
+      return { modelName, imageUrl };
     });
 
-    console.log(`   📝 Model: ${modelName}`);
+    console.log(`   📝 Model: ${modelInfo.modelName}`);
+    if (modelInfo.imageUrl) {
+      console.log(`   🖼️  Image: ${modelInfo.imageUrl.substring(0, 60)}...`);
+    }
 
     // Get financing URLs from button data-location attributes
     const financingUrls = await page.evaluate(() => {
@@ -202,8 +228,9 @@ async function scrapeModelFinancing(page, modelUrl) {
     console.log(`   ✅ After deduplication: ${uniqueOptions.length} unique options`);
 
     return {
-      modelName,
+      modelName: modelInfo.modelName,
       modelUrl,
+      imageUrl: modelInfo.imageUrl,
       financingOptions: uniqueOptions
     };
 
@@ -310,6 +337,11 @@ function generateXMLFeed(models) {
 
       // Brand
       xml += '    <g:brand>Kia</g:brand>\n';
+
+      // Image
+      if (model.imageUrl) {
+        xml += `    <g:image_link>${escapeXml(model.imageUrl)}</g:image_link>\n`;
+      }
 
       // Price (monthly cost)
       xml += `    <g:price>${option.monthlyPrice} SEK</g:price>\n`;
