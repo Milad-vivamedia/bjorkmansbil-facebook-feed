@@ -1127,54 +1127,6 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
-    <g:id>kia-niro-plug-in-hybrid-action-kia-privatleasing</g:id>
-    <title>Kia Niro Plug-In Hybrid Action - Kia Privatleasing</title>
-    <description>Kia Niro Plug-In Hybrid Action. Kia Privatleasing från 1 944 kr/mån.</description>
-    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
-    <g:brand>Kia</g:brand>
-    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
-    <g:price>1944 SEK</g:price>
-    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
-    <g:custom_label_1>Action</g:custom_label_1>
-    <g:custom_label_2>Månadskostnad: 1944 kr</g:custom_label_2>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    </item>
-    <item>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <g:id>kia-niro-plug-in-hybrid-advance-kia-privatleasing</g:id>
-    <title>Kia Niro Plug-In Hybrid Advance - Kia Privatleasing</title>
-    <description>Kia Niro Plug-In Hybrid Advance. Kia Privatleasing från 2 134 kr/mån.</description>
-    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
-    <g:brand>Kia</g:brand>
-    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
-    <g:price>2134 SEK</g:price>
-    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
-    <g:custom_label_1>Advance</g:custom_label_1>
-    <g:custom_label_2>Månadskostnad: 2134 kr</g:custom_label_2>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    </item>
-    <item>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <g:id>kia-niro-plug-in-hybrid-advance-plus-kia-privatleasing</g:id>
-    <title>Kia Niro Plug-In Hybrid Advance Plus - Kia Privatleasing</title>
-    <description>Kia Niro Plug-In Hybrid Advance Plus. Kia Privatleasing från 2 261 kr/mån.</description>
-    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
-    <g:brand>Kia</g:brand>
-    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
-    <g:price>2261 SEK</g:price>
-    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
-    <g:custom_label_1>Advance Plus</g:custom_label_1>
-    <g:custom_label_2>Månadskostnad: 2261 kr</g:custom_label_2>
-    <g:availability>in stock</g:availability>
-    <g:condition>new</g:condition>
-    </item>
-    <item>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
     <g:id>kia-sportage-plug-in-hybrid-action-kia-bill-n-inkl-serviceavtal</g:id>
     <title>Kia Sportage Plug-In Hybrid Action - Kia Billån inkl. serviceavtal</title>
     <description>Kia Sportage Plug-In Hybrid Action. Kia Billån inkl. serviceavtal från 2 461 kr/mån.</description>
