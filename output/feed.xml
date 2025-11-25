@@ -1687,14 +1687,14 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
-    <g:id>nya-kia-stonic-action-manuell-kia-bill-n-inkl-serviceavtal</g:id>
-    <title>Nya Kia Stonic ACTION Manuell - Kia Billån inkl. serviceavtal</title>
-    <description>Nya Kia Stonic ACTION Manuell. Kia Billån inkl. serviceavtal från 1 898 kr/mån.</description>
+    <g:id>nya-kia-stonic-action-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Nya Kia Stonic Action - Kia Billån inkl. serviceavtal</title>
+    <description>Nya Kia Stonic Action. Kia Billån inkl. serviceavtal från 1 898 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-stonic/</link>
     <g:brand>Kia</g:brand>
     <g:price>1898 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
-    <g:custom_label_1>ACTION Manuell</g:custom_label_1>
+    <g:custom_label_1>Action</g:custom_label_1>
     <g:custom_label_2>Månadskostnad: 1898 kr</g:custom_label_2>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1702,14 +1702,14 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
-    <g:id>nya-kia-stonic-action-automat-kia-bill-n-inkl-serviceavtal</g:id>
-    <title>Nya Kia Stonic ACTION Automat - Kia Billån inkl. serviceavtal</title>
-    <description>Nya Kia Stonic ACTION Automat. Kia Billån inkl. serviceavtal från 2 012 kr/mån.</description>
+    <g:id>nya-kia-stonic-action-dct-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Nya Kia Stonic Action DCT - Kia Billån inkl. serviceavtal</title>
+    <description>Nya Kia Stonic Action DCT. Kia Billån inkl. serviceavtal från 2 012 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-stonic/</link>
     <g:brand>Kia</g:brand>
     <g:price>2012 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
-    <g:custom_label_1>ACTION Automat</g:custom_label_1>
+    <g:custom_label_1>Action DCT</g:custom_label_1>
     <g:custom_label_2>Månadskostnad: 2012 kr</g:custom_label_2>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1747,14 +1747,14 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
-    <g:id>nya-kia-stonic-action-manuell-kia-privatleasing</g:id>
-    <title>Nya Kia Stonic ACTION Manuell - Kia Privatleasing</title>
-    <description>Nya Kia Stonic ACTION Manuell. Kia Privatleasing från 1 898 kr/mån.</description>
+    <g:id>nya-kia-stonic-action-kia-privatleasing</g:id>
+    <title>Nya Kia Stonic Action - Kia Privatleasing</title>
+    <description>Nya Kia Stonic Action. Kia Privatleasing från 1 898 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-stonic/</link>
     <g:brand>Kia</g:brand>
     <g:price>1898 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
-    <g:custom_label_1>ACTION Manuell</g:custom_label_1>
+    <g:custom_label_1>Action</g:custom_label_1>
     <g:custom_label_2>Månadskostnad: 1898 kr</g:custom_label_2>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
@@ -1762,14 +1762,14 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
-    <g:id>nya-kia-stonic-action-automat-kia-privatleasing</g:id>
-    <title>Nya Kia Stonic ACTION Automat - Kia Privatleasing</title>
-    <description>Nya Kia Stonic ACTION Automat. Kia Privatleasing från 2 012 kr/mån.</description>
+    <g:id>nya-kia-stonic-action-dct-kia-privatleasing</g:id>
+    <title>Nya Kia Stonic Action DCT - Kia Privatleasing</title>
+    <description>Nya Kia Stonic Action DCT. Kia Privatleasing från 2 012 kr/mån.</description>
     <link>https://www.bjorkmansbil.se/modeller/nya-kia-stonic/</link>
     <g:brand>Kia</g:brand>
     <g:price>2012 SEK</g:price>
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
-    <g:custom_label_1>ACTION Automat</g:custom_label_1>
+    <g:custom_label_1>Action DCT</g:custom_label_1>
     <g:custom_label_2>Månadskostnad: 2012 kr</g:custom_label_2>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
