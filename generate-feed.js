@@ -96,29 +96,37 @@ async function scrapeModelFinancing(page, modelUrl) {
       for (const img of allImages) {
         const src = img.src || img.getAttribute('data-src') || '';
         const alt = img.alt || '';
-        const width = img.width || 0;
-        const height = img.height || 0;
+        const width = img.width || img.naturalWidth || 0;
+        const height = img.height || img.naturalHeight || 0;
 
-        // Filter criteria
+        // Filter criteria - lowered thresholds to catch more images
         const isFromUploads = src.includes('wp-content/uploads');
-        const isLargeEnough = width > 500 && height > 300;
+        const isLargeEnough = width > 300 && height > 200;
         const notLogo = !src.includes('logo') && !src.includes('koncern') &&
-                        !src.includes('icon') && !alt.toLowerCase().includes('björkmans');
+                        !src.includes('icon') && !src.includes('symbol') &&
+                        !alt.toLowerCase().includes('björkmans');
         const notElbilBadge = !src.includes('elbil.png');
+        const notKiaLogo = !src.includes('kia-vit.png');
 
-        if (isFromUploads && isLargeEnough && notLogo && notElbilBadge) {
+        if (isFromUploads && isLargeEnough && notLogo && notElbilBadge && notKiaLogo) {
+          // Prefer jpg/png over webp/avif for better Facebook compatibility
+          const isPreferredFormat = src.includes('.jpg') || src.includes('.jpeg') || src.includes('.png');
           candidates.push({
             src: src,
             width: width,
             height: height,
-            size: width * height
+            size: width * height,
+            priority: isPreferredFormat ? 1 : 0
           });
         }
       }
 
-      // Sort by size (largest first) and take the first one
+      // Sort by priority (jpg/png first), then by size (largest first)
       if (candidates.length > 0) {
-        candidates.sort((a, b) => b.size - a.size);
+        candidates.sort((a, b) => {
+          if (b.priority !== a.priority) return b.priority - a.priority;
+          return b.size - a.size;
+        });
         imageUrl = candidates[0].src;
       }
 
