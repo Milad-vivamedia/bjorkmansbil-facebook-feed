@@ -1431,6 +1431,70 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-sorento-plug-in-hybrid-action-kia-privatleasing</g:id>
+    <title>Kia Sorento Plug-In Hybrid Action - Kia Privatleasing</title>
+    <description>Kia Sorento Plug-In Hybrid Action. Kia Privatleasing från 3 635 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2022/04/nya-sorento-modell.png</g:image_link>
+    <g:price>3635 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Action</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3635 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-sorento-plug-in-hybrid-advance-kia-privatleasing</g:id>
+    <title>Kia Sorento Plug-In Hybrid Advance - Kia Privatleasing</title>
+    <description>Kia Sorento Plug-In Hybrid Advance. Kia Privatleasing från 3 903 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2022/04/nya-sorento-modell.png</g:image_link>
+    <g:price>3903 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Advance</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3903 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-sorento-plug-in-hybrid-advance-plus-kia-privatleasing</g:id>
+    <title>Kia Sorento Plug-In Hybrid Advance Plus - Kia Privatleasing</title>
+    <description>Kia Sorento Plug-In Hybrid Advance Plus. Kia Privatleasing från 4 124 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2022/04/nya-sorento-modell.png</g:image_link>
+    <g:price>4124 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Advance Plus</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4124 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-sorento-plug-in-hybrid-advance-plus-panorama-kia-privatleasing</g:id>
+    <title>Kia Sorento Plug-In Hybrid Advance Plus Panorama - Kia Privatleasing</title>
+    <description>Kia Sorento Plug-In Hybrid Advance Plus Panorama. Kia Privatleasing från 4 211 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-sorento-plug-in-hybrid/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2022/04/nya-sorento-modell.png</g:image_link>
+    <g:price>4211 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Advance Plus Panorama</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4211 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
     <g:id>kia-sorento-plug-in-hybrid-action-kia-f-retagsleasing</g:id>
     <title>Kia Sorento Plug-In Hybrid Action - Kia Företagsleasing</title>
     <description>Kia Sorento Plug-In Hybrid Action. Kia Företagsleasing från 3 635 kr/mån.</description>
