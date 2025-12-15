@@ -89,45 +89,69 @@ async function scrapeModelFinancing(page, modelUrl) {
       // Try to find the main model image
       let imageUrl = '';
 
-      // Strategy: Find large product images from wp-content/uploads
-      const allImages = document.querySelectorAll('img');
-      const candidates = [];
-
-      for (const img of allImages) {
-        const src = img.src || img.getAttribute('data-src') || '';
-        const alt = img.alt || '';
-        const width = img.width || img.naturalWidth || 0;
-        const height = img.height || img.naturalHeight || 0;
-
-        // Filter criteria - lowered thresholds to catch more images
-        const isFromUploads = src.includes('wp-content/uploads');
-        const isLargeEnough = width > 300 && height > 200;
-        const notLogo = !src.includes('logo') && !src.includes('koncern') &&
-                        !src.includes('icon') && !src.includes('symbol') &&
-                        !alt.toLowerCase().includes('björkmans');
-        const notElbilBadge = !src.includes('elbil.png');
-        const notKiaLogo = !src.includes('kia-vit.png');
-
-        if (isFromUploads && isLargeEnough && notLogo && notElbilBadge && notKiaLogo) {
-          // Prefer jpg/png over webp/avif for better Facebook compatibility
-          const isPreferredFormat = src.includes('.jpg') || src.includes('.jpeg') || src.includes('.png');
-          candidates.push({
-            src: src,
-            width: width,
-            height: height,
-            size: width * height,
-            priority: isPreferredFormat ? 1 : 0
-          });
+      // Strategy 1: Use og:image meta tag (most reliable - always a good product image)
+      const ogImage = document.querySelector('meta[property="og:image"]');
+      if (ogImage) {
+        const ogImageUrl = ogImage.getAttribute('content');
+        if (ogImageUrl && ogImageUrl.includes('wp-content/uploads') &&
+            !ogImageUrl.includes('favicon') && !ogImageUrl.includes('logo')) {
+          imageUrl = ogImageUrl;
         }
       }
 
-      // Sort by priority (jpg/png first), then by size (largest first)
-      if (candidates.length > 0) {
-        candidates.sort((a, b) => {
-          if (b.priority !== a.priority) return b.priority - a.priority;
-          return b.size - a.size;
-        });
-        imageUrl = candidates[0].src;
+      // Strategy 2: Find image in model container (.img-container)
+      if (!imageUrl) {
+        const modelContainerImg = document.querySelector('.img-container img, .single-model img, .model img');
+        if (modelContainerImg) {
+          const src = modelContainerImg.src || modelContainerImg.getAttribute('data-src') || '';
+          if (src && src.includes('wp-content/uploads') && !src.includes('elbil.png')) {
+            imageUrl = src;
+          }
+        }
+      }
+
+      // Strategy 3: Fallback - find large product images from wp-content/uploads
+      if (!imageUrl) {
+        const allImages = document.querySelectorAll('img');
+        const candidates = [];
+
+        for (const img of allImages) {
+          const src = img.src || img.getAttribute('data-src') || '';
+          const alt = img.alt || '';
+          const width = img.width || img.naturalWidth || 0;
+          const height = img.height || img.naturalHeight || 0;
+
+          // Filter criteria
+          const isFromUploads = src.includes('wp-content/uploads');
+          const isLargeEnough = width > 200 && height > 100;
+          const notLogo = !src.includes('logo') && !src.includes('koncern') &&
+                          !src.includes('icon') && !src.includes('symbol') &&
+                          !alt.toLowerCase().includes('björkmans');
+          const notElbilBadge = !src.includes('elbil.png');
+          const notKiaLogo = !src.includes('kia-vit.png');
+          const notFavicon = !src.includes('favicon');
+
+          if (isFromUploads && isLargeEnough && notLogo && notElbilBadge && notKiaLogo && notFavicon) {
+            // Prefer jpg/png over webp/avif for better Facebook compatibility
+            const isPreferredFormat = src.includes('.jpg') || src.includes('.jpeg') || src.includes('.png');
+            candidates.push({
+              src: src,
+              width: width,
+              height: height,
+              size: width * height,
+              priority: isPreferredFormat ? 1 : 0
+            });
+          }
+        }
+
+        // Sort by priority (jpg/png first), then by size (largest first)
+        if (candidates.length > 0) {
+          candidates.sort((a, b) => {
+            if (b.priority !== a.priority) return b.priority - a.priority;
+            return b.size - a.size;
+          });
+          imageUrl = candidates[0].src;
+        }
       }
 
       return { modelName, imageUrl };
