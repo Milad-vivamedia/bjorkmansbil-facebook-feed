@@ -263,6 +263,70 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-standard-range-kia-privatleasing</g:id>
+    <title>Kia EV4 Standard Range - Kia Privatleasing</title>
+    <description>Kia EV4 Standard Range. Kia Privatleasing från 2 902 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/ev4-fastback-vs-hatchback.png</g:image_link>
+    <g:price>2902 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Standard Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2902 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV4 FWD Long Range - Kia Privatleasing</title>
+    <description>Kia EV4 FWD Long Range. Kia Privatleasing från 2 499 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/ev4-fastback-vs-hatchback.png</g:image_link>
+    <g:price>2499 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2499 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-plus-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV4 Plus FWD Long Range - Kia Privatleasing</title>
+    <description>Kia EV4 Plus FWD Long Range. Kia Privatleasing från 2 713 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/ev4-fastback-vs-hatchback.png</g:image_link>
+    <g:price>2713 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2713 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-gt-line-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV4 GT Line FWD Long Range - Kia Privatleasing</title>
+    <description>Kia EV4 GT Line FWD Long Range. Kia Privatleasing från 3 048 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/ev4-fastback-vs-hatchback.png</g:image_link>
+    <g:price>3048 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3048 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
     <g:id>kia-ev4-standard-range-kia-f-retagsleasing</g:id>
     <title>Kia EV4 Standard Range - Kia Företagsleasing</title>
     <description>Kia EV4 Standard Range. Kia Företagsleasing från 2 902 kr/mån.</description>
@@ -391,6 +455,230 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-fastback-plus-fwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV4 Fastback Plus FWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV4 Fastback Plus FWD Long Range. Kia Företagsleasing från 3 426 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/ev4-fastback-2025.png</g:image_link>
+    <g:price>3426 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3426 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-fastback-gt-line-fwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV4 Fastback GT Line FWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV4 Fastback GT Line FWD Long Range. Kia Företagsleasing från 3 761 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/ev4-fastback-2025.png</g:image_link>
+    <g:price>3761 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3761 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-fwd-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV5 FWD Long Range - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV5 FWD Long Range. Kia Billån inkl. serviceavtal från 3 157 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3157 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3157 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-plus-fwd-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV5 Plus FWD Long Range - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV5 Plus FWD Long Range. Kia Billån inkl. serviceavtal från 3 392 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3392 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3392 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-gt-line-fwd-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV5 GT Line FWD Long Range - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV5 GT Line FWD Long Range. Kia Billån inkl. serviceavtal från 3 620 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3620 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3620 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-gt-line-panorama-fwd-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV5 GT Line Panorama FWD Long Range - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV5 GT Line Panorama FWD Long Range. Kia Billån inkl. serviceavtal från 3 709 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3709 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>GT Line Panorama FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3709 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV5 FWD Long Range - Kia Privatleasing</title>
+    <description>Kia EV5 FWD Long Range. Kia Privatleasing från 3 157 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3157 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3157 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-plus-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV5 Plus FWD Long Range - Kia Privatleasing</title>
+    <description>Kia EV5 Plus FWD Long Range. Kia Privatleasing från 3 392 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3392 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3392 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-gt-line-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV5 GT Line FWD Long Range - Kia Privatleasing</title>
+    <description>Kia EV5 GT Line FWD Long Range. Kia Privatleasing från 3 620 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3620 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3620 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-gt-line-panorama-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV5 GT Line Panorama FWD Long Range - Kia Privatleasing</title>
+    <description>Kia EV5 GT Line Panorama FWD Long Range. Kia Privatleasing från 3 709 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3709 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line Panorama FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3709 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-fwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV5 FWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV5 FWD Long Range. Kia Företagsleasing från 3 157 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3157 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3157 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-plus-fwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV5 Plus FWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV5 Plus FWD Long Range. Kia Företagsleasing från 3 392 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3392 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3392 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-gt-line-fwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV5 GT Line FWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV5 GT Line FWD Long Range. Kia Företagsleasing från 3 620 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3620 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3620 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev5-gt-line-panorama-fwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV5 GT Line Panorama FWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV5 GT Line Panorama FWD Long Range. Kia Företagsleasing från 3 709 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev5/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/kia-ev5-rear.png</g:image_link>
+    <g:price>3709 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line Panorama FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3709 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
     <g:id>kia-ev6-rwd-long-range-kia-bill-n-inkl-serviceavtal</g:id>
     <title>Kia EV6 RWD Long Range - Kia Billån inkl. serviceavtal</title>
     <description>Kia EV6 RWD Long Range. Kia Billån inkl. serviceavtal från 4 545 kr/mån.</description>
@@ -465,6 +753,422 @@
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
     <g:custom_label_1>GT Line AWD</g:custom_label_1>
     <g:custom_label_2>Månadskostnad: 3018 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev6-rwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV6 RWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV6 RWD Long Range. Kia Företagsleasing från 4 545 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/kia-ev6-nya.png</g:image_link>
+    <g:price>4545 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>RWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4545 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev6-awd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV6 AWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV6 AWD Long Range. Kia Företagsleasing från 3 019 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/kia-ev6-nya.png</g:image_link>
+    <g:price>3019 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>AWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3019 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev6-rwd-plus-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV6 RWD Plus Long Range - Kia Företagsleasing</title>
+    <description>Kia EV6 RWD Plus Long Range. Kia Företagsleasing från 4 806 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/kia-ev6-nya.png</g:image_link>
+    <g:price>4806 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>RWD Plus Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4806 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev6-awd-plus-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV6 AWD Plus Long Range - Kia Företagsleasing</title>
+    <description>Kia EV6 AWD Plus Long Range. Kia Företagsleasing från 3 253 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/kia-ev6-nya.png</g:image_link>
+    <g:price>3253 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>AWD Plus Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3253 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev6-gt-line-awd-kia-f-retagsleasing</g:id>
+    <title>Kia EV6 GT Line AWD - Kia Företagsleasing</title>
+    <description>Kia EV6 GT Line AWD. Kia Företagsleasing från 3 018 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/nya-kia-ev6/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2024/11/kia-ev6-nya.png</g:image_link>
+    <g:price>3018 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line AWD</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3018 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev6-gt-awd-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV6 GT AWD Long Range - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV6 GT AWD Long Range. Kia Billån inkl. serviceavtal från 5 848 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev6-gt/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/11/ev6gt.png</g:image_link>
+    <g:price>5848 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>AWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 5848 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-standard-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV9 Standard Range - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV9 Standard Range. Kia Billån inkl. serviceavtal från 3 557 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>3557 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>Standard Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3557 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV9 Long Range - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV9 Long Range. Kia Billån inkl. serviceavtal från 4 348 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>4348 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4348 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-plus-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV9 Plus - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV9 Plus. Kia Billån inkl. serviceavtal från 4 549 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>4549 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>Plus</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4549 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-gt-line-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV9 GT Line - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV9 GT Line. Kia Billån inkl. serviceavtal från 4 816 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>4816 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>GT Line</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4816 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-gt-line-6-sits-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV9 GT Line 6-SITS - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV9 GT Line 6-SITS. Kia Billån inkl. serviceavtal från 4 965 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>4965 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>GT Line 6-SITS</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4965 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-standard-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV9 Standard Range - Kia Företagsleasing</title>
+    <description>Kia EV9 Standard Range. Kia Företagsleasing från 3 557 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>3557 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>Standard Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3557 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV9 Long Range - Kia Företagsleasing</title>
+    <description>Kia EV9 Long Range. Kia Företagsleasing från 4 348 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>4348 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4348 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-plus-kia-f-retagsleasing</g:id>
+    <title>Kia EV9 Plus - Kia Företagsleasing</title>
+    <description>Kia EV9 Plus. Kia Företagsleasing från 4 549 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>4549 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>Plus</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4549 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-gt-line-kia-f-retagsleasing</g:id>
+    <title>Kia EV9 GT Line - Kia Företagsleasing</title>
+    <description>Kia EV9 GT Line. Kia Företagsleasing från 4 816 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>4816 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4816 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-gt-line-6-sits-kia-f-retagsleasing</g:id>
+    <title>Kia EV9 GT Line 6-SITS - Kia Företagsleasing</title>
+    <description>Kia EV9 GT Line 6-SITS. Kia Företagsleasing från 4 965 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/ev9/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png</g:image_link>
+    <g:price>4965 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line 6-SITS</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4965 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-gt-7-sittplatser-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV9 GT 7 sittplatser - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV9 GT 7 sittplatser. Kia Billån inkl. serviceavtal från 6 764 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev9-gt/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/05/kia-ev9gt-gotland-hero.jpg</g:image_link>
+    <g:price>6764 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>7 sittplatser</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 6764 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev9-gt-6-sittplatser-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV9 GT 6 sittplatser - Kia Billån inkl. serviceavtal</title>
+    <description>Kia EV9 GT 6 sittplatser. Kia Billån inkl. serviceavtal från 6 898 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev9-gt/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/05/kia-ev9gt-gotland-hero.jpg</g:image_link>
+    <g:price>6898 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>6 sittplatser</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 6898 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-pv5-passenger-plus-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia PV5 Passenger PLUS LONG RANGE - Kia Billån inkl. serviceavtal</title>
+    <description>Kia PV5 Passenger PLUS LONG RANGE. Kia Billån inkl. serviceavtal från 4 484 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-pv5-passenger/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/06/kia-corporate-milan-design-week-pv5-interior-highres-8192x5464-28-scaled.jpg</g:image_link>
+    <g:price>4484 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>PLUS LONG RANGE</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4484 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-pv5-passenger-plus-pro-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia PV5 Passenger PLUS PRO LONG RANGE - Kia Billån inkl. serviceavtal</title>
+    <description>Kia PV5 Passenger PLUS PRO LONG RANGE. Kia Billån inkl. serviceavtal från 4 671 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-pv5-passenger/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/06/kia-corporate-milan-design-week-pv5-interior-highres-8192x5464-28-scaled.jpg</g:image_link>
+    <g:price>4671 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>PLUS PRO LONG RANGE</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 4671 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-niro-plug-in-hybrid-action-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia Niro Plug-In Hybrid Action - Kia Billån inkl. serviceavtal</title>
+    <description>Kia Niro Plug-In Hybrid Action. Kia Billån inkl. serviceavtal från 1 944 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
+    <g:price>1944 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>Action</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 1944 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-niro-plug-in-hybrid-advance-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia Niro Plug-In Hybrid Advance - Kia Billån inkl. serviceavtal</title>
+    <description>Kia Niro Plug-In Hybrid Advance. Kia Billån inkl. serviceavtal från 2 134 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
+    <g:price>2134 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>Advance</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2134 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-niro-plug-in-hybrid-advance-plus-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia Niro Plug-In Hybrid Advance Plus - Kia Billån inkl. serviceavtal</title>
+    <description>Kia Niro Plug-In Hybrid Advance Plus. Kia Billån inkl. serviceavtal från 2 261 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
+    <g:price>2261 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>Advance Plus</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2261 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-niro-plug-in-hybrid-action-kia-privatleasing</g:id>
+    <title>Kia Niro Plug-In Hybrid Action - Kia Privatleasing</title>
+    <description>Kia Niro Plug-In Hybrid Action. Kia Privatleasing från 1 944 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
+    <g:price>1944 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Action</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 1944 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-niro-plug-in-hybrid-advance-kia-privatleasing</g:id>
+    <title>Kia Niro Plug-In Hybrid Advance - Kia Privatleasing</title>
+    <description>Kia Niro Plug-In Hybrid Advance. Kia Privatleasing från 2 134 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
+    <g:price>2134 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Advance</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2134 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-niro-plug-in-hybrid-advance-plus-kia-privatleasing</g:id>
+    <title>Kia Niro Plug-In Hybrid Advance Plus - Kia Privatleasing</title>
+    <description>Kia Niro Plug-In Hybrid Advance Plus. Kia Privatleasing från 2 261 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/niro-plug-in-hybrid-2/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png</g:image_link>
+    <g:price>2261 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Advance Plus</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2261 kr</g:custom_label_2>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     </item>
