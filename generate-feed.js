@@ -86,76 +86,19 @@ async function scrapeModelFinancing(page, modelUrl) {
       const h1 = document.querySelector('h1');
       const modelName = h1 ? h1.textContent.trim() : '';
 
-      // Try to find the main model image - prioritize visually appealing hero images
+      // Try to find the main model image from .img-container (the variant product image)
       let imageUrl = '';
 
-      // Helper function to check if URL is a good product image
-      const isGoodProductImage = (url) => {
-        if (!url) return false;
-        const isFromUploads = url.includes('wp-content/uploads');
-        const notLogo = !url.includes('logo') && !url.includes('koncern') &&
-                        !url.includes('icon') && !url.includes('symbol') &&
-                        !url.includes('favicon');
-        const notBadge = !url.includes('elbil.png') && !url.includes('kia-vit.png');
-        const notGenericOutline = !url.includes('modell.png'); // Skip generic outline images
-        return isFromUploads && notLogo && notBadge && notGenericOutline;
-      };
-
-      // Strategy 1: Look for banner/hero background image (best quality)
-      const bannerSlide = document.querySelector('.slide__bg, .banner .slide');
-      if (bannerSlide) {
-        const style = bannerSlide.getAttribute('style') || '';
-        const bgMatch = style.match(/url\(['"]?([^'"()]+)['"]?\)/);
-        if (bgMatch && isGoodProductImage(bgMatch[1])) {
-          imageUrl = bgMatch[1];
+      // Strategy 1: Get the image from .img-container (this is the car variant image we want)
+      const imgContainerImg = document.querySelector('.img-container img');
+      if (imgContainerImg) {
+        const src = imgContainerImg.src || imgContainerImg.getAttribute('data-src') || '';
+        if (src && src.includes('wp-content/uploads') && !src.includes('elbil.png')) {
+          imageUrl = src;
         }
       }
 
-      // Strategy 2: Find keyvisual or discover images (marketing shots)
-      if (!imageUrl) {
-        const allImages = document.querySelectorAll('img');
-        for (const img of allImages) {
-          const src = img.src || img.getAttribute('data-src') || '';
-          if (src && (src.includes('keyvisual') || src.includes('discover') || src.includes('beauty')) &&
-              isGoodProductImage(src)) {
-            imageUrl = src;
-            break;
-          }
-        }
-      }
-
-      // Strategy 3: Find large content images (not the variant thumbnails)
-      if (!imageUrl) {
-        const allImages = document.querySelectorAll('img');
-        const candidates = [];
-
-        for (const img of allImages) {
-          const src = img.src || img.getAttribute('data-src') || '';
-          const width = img.width || img.naturalWidth || 0;
-          const height = img.height || img.naturalHeight || 0;
-
-          if (isGoodProductImage(src) && width > 300 && height > 200) {
-            // Prioritize jpg/jpeg for Facebook compatibility
-            const isJpg = src.includes('.jpg') || src.includes('.jpeg');
-            const isScaled = src.includes('scaled'); // Often indicates high-quality hero images
-            candidates.push({
-              src: src,
-              size: width * height,
-              priority: (isJpg ? 2 : 0) + (isScaled ? 1 : 0)
-            });
-          }
-        }
-
-        if (candidates.length > 0) {
-          candidates.sort((a, b) => {
-            if (b.priority !== a.priority) return b.priority - a.priority;
-            return b.size - a.size;
-          });
-          imageUrl = candidates[0].src;
-        }
-      }
-
-      // Strategy 4: Fallback to og:image if nothing better found
+      // Strategy 2: Fallback to og:image if .img-container not found
       if (!imageUrl) {
         const ogImage = document.querySelector('meta[property="og:image"]');
         if (ogImage) {
