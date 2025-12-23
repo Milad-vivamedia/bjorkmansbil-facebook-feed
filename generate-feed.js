@@ -81,39 +81,25 @@ async function scrapeModelFinancing(page, modelUrl) {
       // Cookie banner not found or already closed
     }
 
-    // Hardcoded correct image URLs for each model (from client specification)
-    const MODEL_IMAGES = {
-      'kia-ev3': 'https://www.bjorkmansbil.se/wp-content/uploads/2024/09/kia-ev3-my25-delp-discover-keyvisual-d-w.jpg',
-      'kia-ev4': 'https://www.bjorkmansbil.se/wp-content/uploads/2024/11/ev4-fastback-vs-hatchback.png',
-      'kia-ev4-fastback': 'https://www.bjorkmansbil.se/wp-content/uploads/2025/09/ev4-fastback-2025.png',
-      'kia-ev5': 'https://www.bjorkmansbil.se/wp-content/uploads/2025/09/ev5-lansering.png',
-      'kia-ev6': 'https://www.bjorkmansbil.se/wp-content/uploads/2024/11/kia-ev6-nya.png',
-      'kia-ev6-gt': 'https://www.bjorkmansbil.se/wp-content/uploads/2025/02/kia-ev6-pe-gt-my25-swp-snowwhitepearl-21-0000.png',
-      'kia-ev9': 'https://www.bjorkmansbil.se/wp-content/uploads/2023/12/nya-kia-ev9-bjorkmansbil.png',
-      'kia-ev9-gt': 'https://www.bjorkmansbil.se/wp-content/uploads/2025/05/kia-ev9gt-gotland-hero.jpg',
-      'kia-pv5-passenger': 'https://www.bjorkmansbil.se/wp-content/uploads/2025/06/kia-corporate-milan-design-week-pv5-interior-highres-8192x5464-28-2048x1366.jpg',
-      'stonic': 'https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-stonic-bjorkmansbil.png',
-      'nya-kia-stonic': 'https://www.bjorkmansbil.se/wp-content/uploads/2025/11/nya-kia-stonic-fram.png',
-      'niro-plug-in-hybrid': 'https://www.bjorkmansbil.se/wp-content/uploads/2023/12/kia-niro-plug-in-hybrid-bjorkmansbil.png',
-      'sportage': 'https://www.bjorkmansbil.se/wp-content/uploads/2022/01/kia-sportage-action-1024x581.png',
-      'sportage-plug-in-hybrid': 'https://www.bjorkmansbil.se/wp-content/uploads/2022/01/kia-sportage-action-1024x581.png',
-      'sorento': 'https://www.bjorkmansbil.se/wp-content/uploads/2024/08/nya-sorento-exterior.png',
-      'nya-sorento': 'https://www.bjorkmansbil.se/wp-content/uploads/2024/08/nya-sorento-exterior.png',
-      'picanto': 'https://www.bjorkmansbil.se/wp-content/uploads/2024/05/picanto-exterior.png'
-    };
-
-    // Extract model slug from URL
-    const urlMatch = modelUrl.match(/\/modeller\/([^\/\?]+)/);
-    const modelSlug = urlMatch ? urlMatch[1] : '';
-
-    // Extract basic model info and use hardcoded image
-    const modelInfo = await page.evaluate((hardcodedImage) => {
+    // Extract basic model info and scrape product image dynamically
+    const modelInfo = await page.evaluate(() => {
       const h1 = document.querySelector('h1');
       const modelName = h1 ? h1.textContent.trim() : '';
 
-      let imageUrl = hardcodedImage || '';
+      let imageUrl = '';
 
-      // Fallback to og:image if no hardcoded image
+      // Primary: Get the product image from .single-model .img-container img
+      // This gets the clean product image, not the hero/header background image
+      const productImg = document.querySelector('.single-model.active-model .img-container img')
+                      || document.querySelector('.single-model .img-container img');
+      if (productImg) {
+        const src = productImg.getAttribute('src');
+        if (src) {
+          imageUrl = src;
+        }
+      }
+
+      // Fallback to og:image if no product image found
       if (!imageUrl) {
         const ogImage = document.querySelector('meta[property="og:image"]');
         if (ogImage) {
@@ -125,7 +111,7 @@ async function scrapeModelFinancing(page, modelUrl) {
       }
 
       return { modelName, imageUrl };
-    }, MODEL_IMAGES[modelSlug] || '');
+    });
 
     console.log(`   📝 Model: ${modelInfo.modelName}`);
     if (modelInfo.imageUrl) {
