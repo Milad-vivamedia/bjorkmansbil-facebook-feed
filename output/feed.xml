@@ -455,6 +455,38 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-fastback-plus-fwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV4 Fastback Plus FWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV4 Fastback Plus FWD Long Range. Kia Företagsleasing från 3 432 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/ev4turn-sb-gls-0013.png</g:image_link>
+    <g:price>3432 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3432 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-fastback-gt-line-fwd-long-range-kia-f-retagsleasing</g:id>
+    <title>Kia EV4 Fastback GT Line FWD Long Range - Kia Företagsleasing</title>
+    <description>Kia EV4 Fastback GT Line FWD Long Range. Kia Företagsleasing från 3 767 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4-fastback/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2025/09/ev4turn-sb-gls-0013.png</g:image_link>
+    <g:price>3767 SEK</g:price>
+    <g:custom_label_0>Kia Företagsleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3767 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
     <g:id>kia-ev5-fwd-long-range-kia-bill-n-inkl-serviceavtal</g:id>
     <title>Kia EV5 FWD Long Range - Kia Billån inkl. serviceavtal</title>
     <description>Kia EV5 FWD Long Range. Kia Billån inkl. serviceavtal från 3 161 kr/mån.</description>
