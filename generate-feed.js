@@ -110,12 +110,26 @@ async function scrapeModelFinancing(page, modelUrl) {
         }
       }
 
-      return { modelName, imageUrl };
+      // Extract gallery images from the filler-images-container section
+      // These are typically design, interior, exterior images at the bottom of the page
+      const galleryImages = [];
+      const fillerImages = document.querySelectorAll('.filler-images-container .single-filler-image img');
+      fillerImages.forEach(img => {
+        const src = img.getAttribute('src');
+        if (src && src.includes('wp-content/uploads')) {
+          galleryImages.push(src);
+        }
+      });
+
+      return { modelName, imageUrl, galleryImages };
     });
 
     console.log(`   📝 Model: ${modelInfo.modelName}`);
     if (modelInfo.imageUrl) {
       console.log(`   🖼️  Image: ${modelInfo.imageUrl.substring(0, 60)}...`);
+    }
+    if (modelInfo.galleryImages.length > 0) {
+      console.log(`   🖼️  Gallery images: ${modelInfo.galleryImages.length} found`);
     }
 
     // Get financing URLs from button data-location attributes
@@ -234,6 +248,7 @@ async function scrapeModelFinancing(page, modelUrl) {
       modelName: modelInfo.modelName,
       modelUrl,
       imageUrl: modelInfo.imageUrl,
+      galleryImages: modelInfo.galleryImages,
       financingOptions: uniqueOptions
     };
 
@@ -344,6 +359,13 @@ function generateXMLFeed(models) {
       // Image
       if (model.imageUrl) {
         xml += `    <g:image_link>${escapeXml(model.imageUrl)}</g:image_link>\n`;
+      }
+
+      // Additional gallery images (design, interior, exterior)
+      if (model.galleryImages && model.galleryImages.length > 0) {
+        model.galleryImages.forEach(galleryImg => {
+          xml += `    <g:additional_image_link>${escapeXml(galleryImg)}</g:additional_image_link>\n`;
+        });
       }
 
       // Price (monthly cost)
