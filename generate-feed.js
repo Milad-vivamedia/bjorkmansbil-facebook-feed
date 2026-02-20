@@ -343,7 +343,7 @@ function generateXMLFeed(models) {
       xml += `    <g:id>${escapeXml(itemId)}</g:id>\n`;
 
       // Title
-      const title = `${model.modelName} ${option.packageName} - ${option.financingType}`;
+      const title = `${model.modelName} ${option.packageName}`;
       xml += `    <title>${escapeXml(title)}</title>\n`;
 
       // Description
