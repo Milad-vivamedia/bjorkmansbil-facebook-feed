@@ -254,6 +254,25 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev2-plus-4-sits-long-range-kia-bill-n-inkl-serviceavtal</g:id>
+    <title>Kia EV2 Plus 4-sits Long Range</title>
+    <description>Kia EV2 Plus 4-sits Long Range. Kia Billån inkl. serviceavtal från 3 051 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev2/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/01/kia-ev2-bjorkmansbil-modell-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/01/kia-ev2-bjorkmansbil-front.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/01/kia-ev2-bjorkmansbil-interior.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/01/kia-ev2-bjorkmansbil-exterior.png</g:additional_image_link>
+    <g:price>3051 SEK</g:price>
+    <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>Plus 4-sits Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3051 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
     <g:id>kia-ev2-gt-line-5-sits-long-range-kia-bill-n-inkl-serviceavtal</g:id>
     <title>Kia EV2 GT Line 5-sits Long Range</title>
     <description>Kia EV2 GT Line 5-sits Long Range. Kia Billån inkl. serviceavtal från 3 334 kr/mån.</description>
@@ -381,6 +400,25 @@
     <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>Plus 4-sits Standard Range</g:custom_label_1>
     <g:custom_label_2>Månadskostnad: 2718 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev2-plus-4-sits-long-range-kia-privatleasing</g:id>
+    <title>Kia EV2 Plus 4-sits Long Range</title>
+    <description>Kia EV2 Plus 4-sits Long Range. Kia Privatleasing från 3 051 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev2/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/01/kia-ev2-bjorkmansbil-modell-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/01/kia-ev2-bjorkmansbil-front.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/01/kia-ev2-bjorkmansbil-interior.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/01/kia-ev2-bjorkmansbil-exterior.png</g:additional_image_link>
+    <g:price>3051 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Plus 4-sits Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3051 kr</g:custom_label_2>
     <g:availability>in stock</g:availability>
     <g:condition>new</g:condition>
     </item>
