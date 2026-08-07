@@ -1185,6 +1185,82 @@
     <item>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-standard-range-kia-privatleasing</g:id>
+    <title>Kia EV4 Standard Range</title>
+    <description>Kia EV4 Standard Range. Kia Privatleasing från 2 908 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-modell-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-social-1x1-generell.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-interior.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-exterior.png</g:additional_image_link>
+    <g:price>2908 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Standard Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2908 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV4 FWD Long Range</title>
+    <description>Kia EV4 FWD Long Range. Kia Privatleasing från 2 505 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-modell-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-social-1x1-generell.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-interior.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-exterior.png</g:additional_image_link>
+    <g:price>2505 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2505 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-plus-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV4 Plus FWD Long Range</title>
+    <description>Kia EV4 Plus FWD Long Range. Kia Privatleasing från 2 719 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-modell-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-social-1x1-generell.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-interior.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-exterior.png</g:additional_image_link>
+    <g:price>2719 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Plus FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2719 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-ev4-gt-line-fwd-long-range-kia-privatleasing</g:id>
+    <title>Kia EV4 GT Line FWD Long Range</title>
+    <description>Kia EV4 GT Line FWD Long Range. Kia Privatleasing från 3 054 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/kia-ev4/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-modell-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-social-1x1-generell.jpg</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-interior.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-ev4-bjorkmansbil-exterior.png</g:additional_image_link>
+    <g:price>3054 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>GT Line FWD Long Range</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 3054 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
     <g:id>kia-ev4-standard-range-kia-f-retagsleasing</g:id>
     <title>Kia EV4 Standard Range</title>
     <description>Kia EV4 Standard Range. Kia Företagsleasing från 2 908 kr/mån.</description>
@@ -2431,6 +2507,82 @@
     <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-plug-inhybrid-bjorkmansbil.png</g:additional_image_link>
     <g:price>2909 SEK</g:price>
     <g:custom_label_0>Kia Billån inkl. serviceavtal</g:custom_label_0>
+    <g:custom_label_1>GT LINE PANORAMA</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2909 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-sportage-plug-in-hybrid-action-kia-privatleasing</g:id>
+    <title>Kia Sportage Plug-In Hybrid Action</title>
+    <description>Kia Sportage Plug-In Hybrid Action. Kia Privatleasing från 2 333 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-sportage-phev-bjorkmansbil-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-sportage-phev-linkads-1-1.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-interior-bjorkmansbil.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-plug-inhybrid-bjorkmansbil.png</g:additional_image_link>
+    <g:price>2333 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>Action</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2333 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-sportage-plug-in-hybrid-advance-kia-privatleasing</g:id>
+    <title>Kia Sportage Plug-In Hybrid ADVANCE</title>
+    <description>Kia Sportage Plug-In Hybrid ADVANCE. Kia Privatleasing från 2 567 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-sportage-phev-bjorkmansbil-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-sportage-phev-linkads-1-1.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-interior-bjorkmansbil.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-plug-inhybrid-bjorkmansbil.png</g:additional_image_link>
+    <g:price>2567 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>ADVANCE</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2567 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-sportage-plug-in-hybrid-gt-line-kia-privatleasing</g:id>
+    <title>Kia Sportage Plug-In Hybrid GT LINE</title>
+    <description>Kia Sportage Plug-In Hybrid GT LINE. Kia Privatleasing från 2 802 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-sportage-phev-bjorkmansbil-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-sportage-phev-linkads-1-1.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-interior-bjorkmansbil.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-plug-inhybrid-bjorkmansbil.png</g:additional_image_link>
+    <g:price>2802 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
+    <g:custom_label_1>GT LINE</g:custom_label_1>
+    <g:custom_label_2>Månadskostnad: 2802 kr</g:custom_label_2>
+    <g:availability>in stock</g:availability>
+    <g:condition>new</g:condition>
+    </item>
+    <item>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <g:id>kia-sportage-plug-in-hybrid-gt-line-panorama-kia-privatleasing</g:id>
+    <title>Kia Sportage Plug-In Hybrid GT LINE PANORAMA</title>
+    <description>Kia Sportage Plug-In Hybrid GT LINE PANORAMA. Kia Privatleasing från 2 909 kr/mån.</description>
+    <link>https://www.bjorkmansbil.se/modeller/sportage-plug-in-hybrid/</link>
+    <g:brand>Kia</g:brand>
+    <g:image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-sportage-phev-bjorkmansbil-1024x1024.png</g:image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/kia-sportage-phev-linkads-1-1.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-interior-bjorkmansbil.png</g:additional_image_link>
+    <g:additional_image_link>https://www.bjorkmansbil.se/wp-content/uploads/2026/02/sportage-plug-inhybrid-bjorkmansbil.png</g:additional_image_link>
+    <g:price>2909 SEK</g:price>
+    <g:custom_label_0>Kia Privatleasing</g:custom_label_0>
     <g:custom_label_1>GT LINE PANORAMA</g:custom_label_1>
     <g:custom_label_2>Månadskostnad: 2909 kr</g:custom_label_2>
     <g:availability>in stock</g:availability>
